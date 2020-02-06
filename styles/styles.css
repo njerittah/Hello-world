@@ -1,0 +1,11 @@
+h1{
+  color: #FF00FF ;
+font-family: fantasy;
+text-align: center;
+line-height: normal;
+}
+p{ color: blue
+font-family: sans-serif;
+text-align: justify;
+float: right;
+line-height: inherit;}
